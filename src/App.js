@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://trysagemarting-saf.vercel.app/';
+            window.location.href = 'https://sageguts-martinglink.vercel.app/';
         }, 2000);
 
         return () => clearTimeout(timer);
