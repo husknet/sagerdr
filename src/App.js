@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://newsage-marketing.vercel.app/';
+            window.location.href = 'https://sageguts-idabato.vercel.app/';
         }, 2000);
 
         return () => clearTimeout(timer);
