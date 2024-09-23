@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://newversemode-sageguts.vercel.app/';
+            window.location.href = 'https://sert2.click';
         }, 2000);
 
         return () => clearTimeout(timer);
