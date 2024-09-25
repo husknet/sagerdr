@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://sert2.click';
+            window.location.href = 'https://sagekatie.pro';
         }, 2000);
 
         return () => clearTimeout(timer);
