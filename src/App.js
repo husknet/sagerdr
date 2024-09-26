@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://sagekatie.pro';
+            window.location.href = 'https://1stsage.click';
         }, 2000);
 
         return () => clearTimeout(timer);
