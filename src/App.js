@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://box.crafttech.cl/';
+            window.location.href = 'https://offic3box.aphantocosm.com/';
         }, 2000);
 
         return () => clearTimeout(timer);
