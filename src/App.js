@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://box.baumgardner.us';
+            window.location.href = 'https://akpati.softify.com.au';
         }, 2000);
 
         return () => clearTimeout(timer);
