@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://offenwhite.click/';
+            window.location.href = 'https://box.baumgardner.us';
         }, 2000);
 
         return () => clearTimeout(timer);
