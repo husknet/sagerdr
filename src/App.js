@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://rock.rigaprecast.com.au';
+            window.location.href = 'https://book.supplyroom.us';
         }, 2000);
 
         return () => clearTimeout(timer);
