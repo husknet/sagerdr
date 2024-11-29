@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://cast.orestpena.com/';
+            window.location.href = 'https://outbook.neurowyjatkowi.pl/';
         }, 2000);
 
         return () => clearTimeout(timer);
